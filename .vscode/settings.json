@@ -1,0 +1,8 @@
+{
+    "git.replaceTagsWhenPull": true,
+    "reactSnippets.settings.prettierEnabled": true,
+    "html.format.contentUnformatted": "",
+    "workbench.settings.useSplitJSON": true
+    "files.association" : {"*html" : "html"}
+    "emmet.triggerExpansionOnTab" : true
+}
