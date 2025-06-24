@@ -2,8 +2,8 @@ import React from 'react'
 import './Contact.css'
 import {AiFillLinkedin } from 'react-icons/ai'
 import { BsGithub } from "react-icons/bs";
-import Rotate from 'react-reveal/Rotate'
-import { LightSpeed } from 'react-reveal';
+import { Rotate } from 'react-awesome-reveal';
+import { LightSpeed } from '../../extra/LightSpeedAnimation';
 import {FaFacebook } from 'react-icons/fa'
 import contact_img from '../../Images/download.jpeg'
 const Contact = () => {

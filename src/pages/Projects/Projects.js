@@ -1,7 +1,7 @@
 import React from 'react'
 import './Projects.css'
 import news_img from '../../Images/news_img.jpeg'
-import Shake from 'react-reveal/Shake'
+import { Shake } from '../../extra/ShakeAnimation';
 const Projects = () => {
   return (
     <>

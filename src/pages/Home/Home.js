@@ -2,7 +2,7 @@
 import React from 'react'
 import { useTheme } from '../../context/ThemeContext';
 import './home.css'
-import Fade from "react-reveal/Fade";
+import { Fade } from 'react-awesome-reveal';
 import resume from '../../assets/docs/Bharat_Patidar_CV.pdf'
 import Typewriter from 'typewriter-effect';
 import {BsFillMoonStarsFill , BsFillSunFill } from 'react-icons/bs'

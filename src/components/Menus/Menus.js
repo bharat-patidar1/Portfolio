@@ -1,7 +1,7 @@
 import React from 'react'
 import './Menus.css'
-import Zoom from "react-reveal/Zoom";
-import Fade from "react-reveal/Fade";
+import { Zoom } from 'react-awesome-reveal'
+import { Fade } from 'react-awesome-reveal';
 import { Link } from 'react-scroll';
 import pic from '../../Images/my_img.png'
 import { FcHome,FcAbout,FcReading} from "react-icons/fc";

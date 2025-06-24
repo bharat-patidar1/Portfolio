@@ -6,7 +6,7 @@ import Projects from "./pages/Projects/Projects";
 import Techstack from "./pages/Techstack/Techstack";
 import ScrollToTop from "react-scroll-to-top";
 import { useTheme } from "./context/ThemeContext";
-import Tada from 'react-reveal/Tada'
+import Tada from './extra/TadaAnimation';
 import MobileNav from "./components/MobileNav/MobileNav";
 function App() {
   const [theme] = useTheme()

@@ -1,7 +1,7 @@
 import './About.css'
 import image from '../../Images/my_img.png'
 import React from 'react'
-import Jump from 'react-reveal/Jump'
+import { Jump } from '../../extra/JumpAnimation';
 
 const About = () => {
   return (
