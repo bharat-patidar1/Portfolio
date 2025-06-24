@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cf2fad7.css",
+    "main.js": "/static/js/main.d821d06e.js",
+    "static/js/488.42ea1fd6.chunk.js": "/static/js/488.42ea1fd6.chunk.js",
+    "static/media/my_img.png": "/static/media/my_img.b3d2357a087d042cc23b.png",
+    "static/media/Bharat_Patidar_CV.pdf": "/static/media/Bharat_Patidar_CV.eab84e93ded1a6ab8a52.pdf",
+    "static/media/news_img.jpeg": "/static/media/news_img.cd305632ea6f6757eb11.jpeg",
+    "index.html": "/index.html",
+    "main.9cf2fad7.css.map": "/static/css/main.9cf2fad7.css.map",
+    "main.d821d06e.js.map": "/static/js/main.d821d06e.js.map",
+    "488.42ea1fd6.chunk.js.map": "/static/js/488.42ea1fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf2fad7.css",
+    "static/js/main.d821d06e.js"
+  ]
+}
