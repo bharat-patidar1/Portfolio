@@ -1,7 +1,6 @@
-import React from 'react'
 import './Techstack.css'
 import { RubberBand } from '../../extra/RubberBand';
-import { Fade } from 'react-awesome-reveal';
+// import { Fade } from 'react-awesome-reveal';
 import { TechstackList } from '../../utils/TechstackList'
 const Techstack = () => {
   return (
@@ -15,11 +14,11 @@ const Techstack = () => {
                 👉 including programming Language , FrameWorks , databases , front-end and back-end tools , and API's
             </p>
             </RubberBand>
-            
-            <div className="row">
+            <div className="container text-center">
+                <div className="row">
             {TechstackList.map((tech)=>(
-                <Fade right>
-                <div key={tech._id} className='col-md-3'>
+                
+                <div key={tech._id} className="col-md-3">
                     <div className="card m-2">
                         <div className="card-content">
                             <div className="card-body">
@@ -35,8 +34,9 @@ const Techstack = () => {
                         </div>
                     </div>
                 </div>
-             </Fade>
+            
             ))}
+            </div>
             </div>
         </div>
      
