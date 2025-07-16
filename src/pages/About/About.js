@@ -14,8 +14,9 @@ const About = () => {
             </div>
             <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
                 <h1>About me</h1>
-                <p>My name is Bharat Patidar , I am pursuing Engineering from IET DAVV Indore . 
-                    have good knowledege of Java and data structures and also I am Expert in Full Stack development MERN 
+                <p>
+                       I’m Bharat Patidar, a final-year B.Tech student at the Institute of Engineering and Technology (IET DAVV), Indore, passionate about building scalable and impactful software applications. I specialize in Full Stack Web Development (MERN) and have a strong foundation in Java, Data Structures & Algorithms, and SQL/MySQL.
+                       I enjoy working on both the frontend and backend — whether it's building APIs, writing clean database queries, or creating smooth user interfaces. I also have a strong foundation in Data Structures and Algorithms, which helps me write efficient, optimized code. I’m always learning new technologies and believe in writing code that is simple, maintainable, and scalable
                 </p>
             </div>
         </div>
