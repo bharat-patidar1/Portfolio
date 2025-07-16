@@ -1,7 +1,7 @@
 
 import './Projects.css'
 import hhub from '../../Images/hhub.png'
-import code1st from '../../Images/code1st.png'
+import emp from '../../Images/emp.jpg'
 // import { Shake } from '../../extra/ShakeAnimation';
 const Projects = () => {
   return (
@@ -49,7 +49,7 @@ const Projects = () => {
                 <span className="card-notify-badge">
                   Full Stack
                 </span>
-                <img src={code1st} alt="project1"></img>
+                <img className="bg-black" src={emp} alt="project1"></img>
               </div>
               <div className="card-image-overly m-auto mt-3">
                 <span className="card-detail-badge">Node</span>
@@ -59,8 +59,9 @@ const Projects = () => {
               </div>
               <div className="card-body">
                 <div className="ad-titlle">
-                  <h5 className="text-uppercase  m-auto">Employee Management System</h5>
+                  <h5 className="text-uppercase  m-auto">Employee Management </h5>
                 </div>
+                <button className='ad-btn'><a href="https://code-1st-with-sql.onrender.com" alt="img">View</a></button>
               </div>
             </div>
           </div>
