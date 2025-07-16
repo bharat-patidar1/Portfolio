@@ -1,6 +1,7 @@
 
 import './Projects.css'
 import hhub from '../../Images/hhub.png'
+import code1st from '../../Images/code1st.png'
 // import { Shake } from '../../extra/ShakeAnimation';
 const Projects = () => {
   return (
@@ -42,27 +43,27 @@ const Projects = () => {
 
 
 
-          {/* <div className="col-md-4">
+          <div className="col-md-4">
             <div className="card rounded">
               <div className="card-image">
                 <span className="card-notify-badge">
                   Full Stack
                 </span>
-                <img src={news_img} alt="project1"></img>
+                <img src={code1st} alt="project1"></img>
               </div>
               <div className="card-image-overly m-auto mt-3">
                 <span className="card-detail-badge">Node</span>
                 <span className="card-detail-badge">Express</span>
                 <span className="card-detail-badge">React</span>
-                <span className="card-detail-badge">Mongodb</span>
+                <span className="card-detail-badge">MySQL</span>
               </div>
               <div className="card-body">
                 <div className="ad-titlle">
-                  <h5 className="text-uppercase  m-auto">Daily News Website</h5>
+                  <h5 className="text-uppercase  m-auto">Employee Management System</h5>
                 </div>
               </div>
             </div>
-          </div> */}
+          </div>
 
 
 
